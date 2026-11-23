@@ -1,5 +1,13 @@
 {
- "assets": {},
+ "assets": {
+  "linoleum_brown": "d597a7e2c52e7bf11f849a60367e355fc9bb354a",
+  "old_linoleum_flooring_01": "30459998d3baea458b0403be4a15998b094e0f34",
+  "polystyrene": "ccd9e5dd6cf2c7f5b3fe8db27fa3080d27e817fe",
+  "rubber_tiles": "75066e1de003ab7a022e12497b54cf4c659cd2c1",
+  "rubberized_track": "be19382801ca1303a220e5b762a9e82fca1cef19",
+  "running_track": "a9e1ef2168bb9018a7bed5c80f140cc351aefc50",
+  "weathered_pvc_tank": "53bca0ec3057ec4556fc2cde340f0a904dfbeb8e"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
